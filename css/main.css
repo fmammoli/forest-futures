@@ -289,7 +289,6 @@ figure > img {
 }
 
 .modal .close {
-  position: absolute;
   top: 0;
   right: 10px;
   font-weight: bold;
@@ -360,10 +359,15 @@ figure > img {
   background-color: lightcoral;
   color: white;
   height: 30px;
-  width: 100%;
+  width: 40%;
   margin-top: 10px;
 }
 .kill:active {
   background-color: rgb(148, 79, 79);
   color: white;
+}
+.btns-container-g {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }

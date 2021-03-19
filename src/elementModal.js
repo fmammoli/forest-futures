@@ -36,6 +36,7 @@ function elementModal() {
   }
 
   closeModalBtn.addEventListener("click", function (e) {
+    console.log("fecha");
     close(e);
   });
 

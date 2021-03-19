@@ -46,7 +46,9 @@ function spaceSection(DATA_TABLE) {
     const aspect = window.innerWidth / window.innerHeight;
 
     perspectiveCamera = new THREE.PerspectiveCamera(60, aspect, 1, 2000);
-    perspectiveCamera.position.z = 500;
+    perspectiveCamera.position.z = 200;
+    perspectiveCamera.position.x = 200;
+    perspectiveCamera.position.y = 200;
 
     orthographicCamera = new THREE.OrthographicCamera(
       (frustumSize * aspect) / -2,
