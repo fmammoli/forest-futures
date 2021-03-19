@@ -1,0 +1,25 @@
+{"data":
+    [
+        {
+          "id": 1,
+          "link": "../resources/AGLB_Legend.jpg",
+          "desc": "1balbalblalblalbal",
+        },
+        {
+          "id": 2,
+          "link": "../resources/AGLB_Legend.jpg",
+          "desc": "2balbalblalblalbal",
+        },
+        {
+          "id": 3,
+          "link": "../resources/AGLB_Legend.jpg",
+          "desc": "3balbalblalblalbal",
+        },
+        {
+          "id": 4,
+          "link": "../resources/AGLB_Legend.jpg",
+          "desc": "4balbalblalblalbal",
+        }
+      ];
+    
+}

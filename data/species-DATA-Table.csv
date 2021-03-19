@@ -1,0 +1,65 @@
+Id;Species;Family;Ecosystem Service.Food;Ecosystem Service.Medicinal;Ecosystem Service.Raw Material;Source;Obs;n AmazonFACE 8 plots.Stem_FACE;n AmazonFACE 8 plots.BA_total(cm2);n AmazonFACE 8 plots.AG_total(kg);HD in the Amazonian Tree Flora hank.HD(NumberStems);HD in Amazonian forest carbon cycling.StemNumber;HD in Amazonian forest carbon cycling.Biomass(Kg);HD in Amazonian forest carbon cycling.Productivity(Kg/yr)
+0;Abuta grandifolia;Menispermaceae;X;X;;Santos et al. 2019;;2;16,27;2,754332013;895;13;1194,304877;3,27
+1;Ambelania acida;Apocynaceae;X;;;http://mansfeld.ipk-gatersleben.de/;;4;285,22;171,799819;834;137;12129,42825;114,09
+2;Aniba canelilla;Lauraceae;X;X;;http://mansfeld.ipk-gatersleben.de/;In South America cultivated for the cinnamon-like flavour of the leaves and bark.  In Brazil the bark and seeds are used medicinally.;3;41,63;22,33281238;801;36;26076,10275;538,34
+3;Annona ambotay;Annonaceae;;X;;Manual dos remédios tradicionais Yanomamis;utiliza casca da árvore;9;;;;186;;
+4;Aspidosperma desmanthum;Apocynaceae;;X;X;Santos et al. 2019;;1;3599,71;3064,97462;639;100;59844,60343;442,77
+5;Casearia javitensis;Salicaceae;;X;X;Santos et al. 2019;;5;593,23;491,2834776;377;119;18440,85338;209,92
+6;Chrysophyllum argenteum;Sapotaceae;X;;;http://mansfeld.ipk-gatersleben.de/;The fruits are sweet, the timber is used for construction and charcoal.;2;12,45;4,704696827;389;107;53521,7447;540,45
+7;Chrysophyllum sparsiflorum;Sapotaceae;X;;X;Santos et al. 2019;;1;24,63;10,71310635;1644;11;7503,641818;15,33
+8;Symphonia globulifera;Clusiaceae;;X;;Manual dos remédios tradicionais Yanomamis;utiliza resina;;;;;;;
+9;Conceveiba guianensis;Euphorbiaceae;X;; ;http://mansfeld.ipk-gatersleben.de/;Edible arilo part;1;4,52;1,241189066;147;323;61231,93637;362,42
+10;Cordia nodosa;Boraginaceae;X;X;;Santos et al. 2019;;1;4,52;0,624030558;422;39;1891,117367;12,83
+11;Cordiera myrciifolia;Rubiaceae;X;X;X;Santos et al. 2019;;1;320,47;314,1321676;2167;4;351,5061156;2,65
+12;Couepia ulei;Chrysobalanaceae;X;;;http://mansfeld.ipk-gatersleben.de/;Apareceu na base de dados, mas sem registro de uso;1;34,21;20,21610178;1697;4;696,8810923;3,89
+13;Couma macrocarpa;Apocynaceae;X;;;http://mansfeld.ipk-gatersleben.de/;;1;66,48;34,00146917;465;75;41888,37993;497,37
+14;Cupania scrobiculata;Sapindaceae;X;;X;Santos et al. 2019;;1;3,46;1,070192922;171;127;19606,2386;198,98
+15;Dipteryx odorata;Fabaceae;;;X;Levis et al. 2017;flavouring for tobacco, liqueurs and other foodstuffs.;1;67,93;81,3771869;479;81;325576,5467;2157,17
+16;Erythroxylum citrifolium;Erythroxylaceae;;X;X;Santos et al. 2019;;1;7,07;2,337700742;1214;21;3111,464243;100,58
+17;Eschweilera coriacea;Lecythidaceae;X;;;http://mansfeld.ipk-gatersleben.de/;matamatá branco = edible seeds;9;3104,96;4316,275501;3;3168;2142273,899;23493,01
+18;Eschweilera grandiflora;Lecythidaceae;X;;;http://mansfeld.ipk-gatersleben.de/;In tropical America cultivated for ist edible seeds. From the seeds an oil is extracted for soap and as lubricant.;23;1157,11;1170,932322;66;413;215714,6878;2127,79
+19;Eschweilera micrantha;Lecythidaceae;;X;X;Santos et al. 2019;;4;1018,90;1273,971956;521;215;173222,3468;1585,76
+20;Eugenia cupulata;Myrtaceae;;X;;Santos et al. 2019;;1;7,55;2,634196785;939;18;1989,088894;4,85
+21;Eugenia florida;Myrtaceae;;X;;Santos et al. 2019;;1;4,52;1,488830998;606;61;7689,916654;27,18
+22;Cedrelinga cateniformis;Fabaceae;;X;;Manual dos remédios tradicionais Yanomamis;utiliza casca da árvore;;;;;;;
+23;Guarea kunthiana;Meliaceae;;;X;Santos et al. 2019;;2;18,11;4,679211002;44;376;142006,5597;2033,02
+24;Guatteria megalophylla;Annonaceae;;;X;Prance 1972;arrow poison;1;20,03;8,873986199;1055;32;2451,421767;18,37
+25;Guatteria punctata;Annonaceae;X;X;X;Santos et al. 2019;;4;35,22;12,28521151;1437;16;3080,529098;151,16
+26;Hirtella racemosa;Chrysobalanaceae;;X;X;Santos et al. 2019;;1;7,55;2,95281067;116;65;28021,01872;135,84
+27;Inga brachyrhachis;Fabaceae;X;X;X;Santos et al. 2019;;7;131,32;53,47443737;1490;19;4466,718861;111,94
+28;Inga laurina;Fabaceae;X;;;Levis et al. 2017;;5;333,03;295,5217172;531;53;28948,65498;595,89
+29;Inga stipularis;Fabaceae;X;;;http://mansfeld.ipk-gatersleben.de/;Cultivated for the edible sarcotesta.;3;14,27;3,627676898;1273;48;7468,367719;243,08
+30;Inga thibaudiana;Fabaceae;X;X;X;Santos et al. 2019;;1;13,85;3,952935741;125;183;35213,40399;939,86
+31;Lacistema aggregatum;Lacistemaceae;X;X;X;Santos et al. 2019 http://mansfeld.ipk-gatersleben.de/;bàri djwa (Kayapó Indians) + me krê ka kô (Kayapó Indians) + game attractant;2;16,10;4,556450698;319;161;19557,16475;291,17
+32;Licania apetala;Chrysobalanaceae;;;X;Santos et al. 2019;;2;9,46;2,618699059;27;322;119137,0326;719,10
+33;Licania heteromorpha;Chrysobalanaceae;X;X;X;Santos et al. 2019;;13;1088,21;1532,454068;19;721;347000,8338;4224,52
+34;Licania octandra;Chrysobalanaceae;;;X;Santos et al. 2019;;8;276,98;190,3414421;144;219;147320,1609;1207,71
+35;Mabea speciosa;Euphorbiaceae;;X;X;Santos et al. 2019;;5;263,86;167,5866703;83;301;44601,86592;461,48
+36;Matayba guianensis;Sapindaceae; ;;X;http://mansfeld.ipk-gatersleben.de/;pi tai te (Kayapó Indians, Brazil) - planted by the Kayapó tribe as game attractant;2;14,71;7,488867256;488;120;30835,49364;179,40
+37;Matayba inelegans;Sapindaceae;;X;;Santos et al. 2019;;1;283,53;296,0849968;437;64;34030,34824;55,15
+38;Mezilaurus itauba;Lauraceae;X;;X;Santos et al. 2019;;2;40,25;18,94952706;118;71;40229,87458;247,04
+39;Minquartia guianensis;Olacaceae;;;X;Duke & Vasquez Martinez 1994;;5;2559,45;3591,288432;54;665;622806,7805;5680,08
+40;Pseudolmedia laevis;Moraceae;;X;;Manual dos remédios tradicionais Yanomamis;utiliza seiva;;;;;;;
+41;Myrciaria floribunda;Myrtaceae;X;X;;Santos et al. 2019;;1;271,72;276,2641132;289;71;15636,71009;134,96
+42;Neea oppositifolia;Nyctaginaceae;;;X;Santos et al. 2019;;1;683,49;970,2557289;822;12;4264,566978;120,20
+43;Ocotea canaliculata;Lauraceae;;;X;Santos et al. 2019;;NA;NA;NA;515;33;17352,74107;380,67
+44;Peritassa laevigata;Celastraceae;X;;;http://mansfeld.ipk-gatersleben.de/;edible fruits which are also used for the preparation of marmalade;1;5,31;1,298364081;NA;NA;NA;NA
+45;Pourouma mollis;Urticaceae;X;;;http://mansfeld.ipk-gatersleben.de/;tararanga vermelha - edible fruits;2;207,67;134,3681433;281;120;40083,821;978,24
+46;Pouteria caimito;Sapotaceae;X;;;Levis et al. 2017;;5;414,10;398,8433181;124;285;153141,5447;1365,43
+47;Pouteria cladantha;Sapotaceae;X;;;Santos et al. 2019;;5;157,03;133,1401277;245;177;84990,65199;897,75
+48;Pouteria guianensis;Sapotaceae;X;;X;Santos et al. 2019 http://mansfeld.ipk-gatersleben.de/;cultivated as a fruit tree in the native area, fruits with agreeable flavour. Formerly the latex of the trunk has been tapped. The wood provides an useful timber;5;614,21;793,7631892;68;513;624610,0796;3478,36
+49;Pouteria venosa;Sapotaceae;X;;X;http://mansfeld.ipk-gatersleben.de/;cutitiribá grande. Cultivated in the Amazonas area of BRAZIL as a fruit tree. The timber is used locally.;11;6006,51;10723,56708;473;71;40974,89618;475,34
+50;Protium paniculatum;Burseraceae;;X;X;Santos et al. 2019;;4;315,65;195,5140188;300;192;30591,7533;647,89
+51;Protium trifoliolatum;Burseraceae;X;;X;Santos et al. 2019;;9;346,96;232,3504979;155;226;25276,28118;195,33
+52;Pterocarpus rohrii;Fabaceae;;X;;Santos et al. 2019;;6;294,79;123,1202072;79;131;54889,14205;891,01
+53;Sacoglottis guianensis;Humiriaceae;X;X;X;Santos et al. 2019 http://mansfeld.ipk-gatersleben.de;;3;177,01;173,9506207;130;174;118486,0555;1463,09
+54;Simarouba amara;Simaroubaceae;;X;X;Santos et al. 2019;;1;25,07;6,55269377;108;194;116581,8183;2019,47
+55;Siparuna decipiens;Siparunaceae;;X;;Manual dos remédios tradicionais Yanomamis;utiliza casca da árvore;;;;;;;
+56;Siparuna guianensis;Siparunaceae;;X;;Manual dos remédios tradicionais Yanomamis;utiliza folha;;;;;;;
+57;Sterculia pruriens;Malvaceae;;;X;Santos et al. 2019;;1;224,32;166,5743658;121;331;205222,4361;2567,52
+58;Stryphnodendron pulcherrimum;Fabaceae;;X;X;Santos et al. 2019;;1;10,18;2,398002265;1048;23;11422,2421;387,74
+59;Tachigali paniculata;Fabaceae;;X;;Santos et al. 2019;;3;203,11;141,0671711;88;166;65472,92049;3831,86
+60;Pourouma bicolor;Urticaceae;;X;;Manual dos remédios tradicionais Yanomamis;utiliza frutos e folhas;;;;;;;
+61;Vatairea macrocarpa;Fabaceae;;X;;http://mansfeld.ipk-gatersleben.de/;Cultivated by the Kayapó Indians in NE Brazil as medicinal plant;1;3,80;0,844849393;2926;2;761,8548111;63,23
+62;Amphirrhox longifolia;Violaceae;;X;;Manual dos remédios tradicionais Yanomamis;utiliza casca da árvore;;;;;;;
+63;Virola calophylla;Myristicaceae;;X;;Santos et al. 2019;;9;220,41;92,27743909;34;679;133186,2405;1460,71

@@ -1,0 +1,1602 @@
+[
+  {
+    "Id": "0",
+    "Species": "Abuta grandifolia",
+    "Family": "Menispermaceae",
+    "Ecosystem Service": {
+      "Food": "X",
+      "Medicinal": "X",
+      "Raw Material": ""
+    },
+    "Source": "Santos et al. 2019",
+    "Obs": "",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "2",
+      "BA_total(cm2)": "16,27",
+      "AG_total(kg)": "2,754332013"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "895"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "13",
+      "Biomass(Kg)": "1194,304877",
+      "Productivity(Kg/yr)": "3,27"
+    }
+  },
+  {
+    "Id": "1",
+    "Species": "Ambelania acida",
+    "Family": "Apocynaceae",
+    "Ecosystem Service": {
+      "Food": "X",
+      "Medicinal": "",
+      "Raw Material": ""
+    },
+    "Source": "http://mansfeld.ipk-gatersleben.de/",
+    "Obs": "",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "4",
+      "BA_total(cm2)": "285,22",
+      "AG_total(kg)": "171,799819"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "834"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "137",
+      "Biomass(Kg)": "12129,42825",
+      "Productivity(Kg/yr)": "114,09"
+    }
+  },
+  {
+    "Id": "2",
+    "Species": "Aniba canelilla",
+    "Family": "Lauraceae",
+    "Ecosystem Service": {
+      "Food": "X",
+      "Medicinal": "X",
+      "Raw Material": ""
+    },
+    "Source": "http://mansfeld.ipk-gatersleben.de/",
+    "Obs": "In South America cultivated for the cinnamon-like flavour of the leaves and bark.  In Brazil the bark and seeds are used medicinally.",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "3",
+      "BA_total(cm2)": "41,63",
+      "AG_total(kg)": "22,33281238"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "801"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "36",
+      "Biomass(Kg)": "26076,10275",
+      "Productivity(Kg/yr)": "538,34"
+    }
+  },
+  {
+    "Id": "3",
+    "Species": "Annona ambotay",
+    "Family": "Annonaceae",
+    "Ecosystem Service": {
+      "Food": "",
+      "Medicinal": "X",
+      "Raw Material": ""
+    },
+    "Source": "Manual dos remédios tradicionais Yanomamis",
+    "Obs": "utiliza casca da árvore",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "9",
+      "BA_total(cm2)": "",
+      "AG_total(kg)": ""
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": ""
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "186",
+      "Biomass(Kg)": "",
+      "Productivity(Kg/yr)": ""
+    }
+  },
+  {
+    "Id": "4",
+    "Species": "Aspidosperma desmanthum",
+    "Family": "Apocynaceae",
+    "Ecosystem Service": {
+      "Food": "",
+      "Medicinal": "X",
+      "Raw Material": "X"
+    },
+    "Source": "Santos et al. 2019",
+    "Obs": "",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "1",
+      "BA_total(cm2)": "3599,71",
+      "AG_total(kg)": "3064,97462"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "639"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "100",
+      "Biomass(Kg)": "59844,60343",
+      "Productivity(Kg/yr)": "442,77"
+    }
+  },
+  {
+    "Id": "5",
+    "Species": "Casearia javitensis",
+    "Family": "Salicaceae",
+    "Ecosystem Service": {
+      "Food": "",
+      "Medicinal": "X",
+      "Raw Material": "X"
+    },
+    "Source": "Santos et al. 2019",
+    "Obs": "",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "5",
+      "BA_total(cm2)": "593,23",
+      "AG_total(kg)": "491,2834776"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "377"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "119",
+      "Biomass(Kg)": "18440,85338",
+      "Productivity(Kg/yr)": "209,92"
+    }
+  },
+  {
+    "Id": "6",
+    "Species": "Chrysophyllum argenteum",
+    "Family": "Sapotaceae",
+    "Ecosystem Service": {
+      "Food": "X",
+      "Medicinal": "",
+      "Raw Material": ""
+    },
+    "Source": "http://mansfeld.ipk-gatersleben.de/",
+    "Obs": "The fruits are sweet, the timber is used for construction and charcoal.",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "2",
+      "BA_total(cm2)": "12,45",
+      "AG_total(kg)": "4,704696827"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "389"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "107",
+      "Biomass(Kg)": "53521,7447",
+      "Productivity(Kg/yr)": "540,45"
+    }
+  },
+  {
+    "Id": "7",
+    "Species": "Chrysophyllum sparsiflorum",
+    "Family": "Sapotaceae",
+    "Ecosystem Service": {
+      "Food": "X",
+      "Medicinal": "",
+      "Raw Material": "X"
+    },
+    "Source": "Santos et al. 2019",
+    "Obs": "",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "1",
+      "BA_total(cm2)": "24,63",
+      "AG_total(kg)": "10,71310635"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "1644"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "11",
+      "Biomass(Kg)": "7503,641818",
+      "Productivity(Kg/yr)": "15,33"
+    }
+  },
+  {
+    "Id": "8",
+    "Species": "Symphonia globulifera",
+    "Family": "Clusiaceae",
+    "Ecosystem Service": {
+      "Food": "",
+      "Medicinal": "X",
+      "Raw Material": ""
+    },
+    "Source": "Manual dos remédios tradicionais Yanomamis",
+    "Obs": "utiliza resina",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "",
+      "BA_total(cm2)": "",
+      "AG_total(kg)": ""
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": ""
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "",
+      "Biomass(Kg)": "",
+      "Productivity(Kg/yr)": ""
+    }
+  },
+  {
+    "Id": "9",
+    "Species": "Conceveiba guianensis",
+    "Family": "Euphorbiaceae",
+    "Ecosystem Service": {
+      "Food": "X",
+      "Medicinal": "",
+      "Raw Material": ""
+    },
+    "Source": "http://mansfeld.ipk-gatersleben.de/",
+    "Obs": "Edible arilo part",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "1",
+      "BA_total(cm2)": "4,52",
+      "AG_total(kg)": "1,241189066"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "147"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "323",
+      "Biomass(Kg)": "61231,93637",
+      "Productivity(Kg/yr)": "362,42"
+    }
+  },
+  {
+    "Id": "10",
+    "Species": "Cordia nodosa",
+    "Family": "Boraginaceae",
+    "Ecosystem Service": {
+      "Food": "X",
+      "Medicinal": "X",
+      "Raw Material": ""
+    },
+    "Source": "Santos et al. 2019",
+    "Obs": "",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "1",
+      "BA_total(cm2)": "4,52",
+      "AG_total(kg)": "0,624030558"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "422"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "39",
+      "Biomass(Kg)": "1891,117367",
+      "Productivity(Kg/yr)": "12,83"
+    }
+  },
+  {
+    "Id": "11",
+    "Species": "Cordiera myrciifolia",
+    "Family": "Rubiaceae",
+    "Ecosystem Service": {
+      "Food": "X",
+      "Medicinal": "X",
+      "Raw Material": "X"
+    },
+    "Source": "Santos et al. 2019",
+    "Obs": "",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "1",
+      "BA_total(cm2)": "320,47",
+      "AG_total(kg)": "314,1321676"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "2167"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "4",
+      "Biomass(Kg)": "351,5061156",
+      "Productivity(Kg/yr)": "2,65"
+    }
+  },
+  {
+    "Id": "12",
+    "Species": "Couepia ulei",
+    "Family": "Chrysobalanaceae",
+    "Ecosystem Service": {
+      "Food": "X",
+      "Medicinal": "",
+      "Raw Material": ""
+    },
+    "Source": "http://mansfeld.ipk-gatersleben.de/",
+    "Obs": "Apareceu na base de dados, mas sem registro de uso",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "1",
+      "BA_total(cm2)": "34,21",
+      "AG_total(kg)": "20,21610178"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "1697"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "4",
+      "Biomass(Kg)": "696,8810923",
+      "Productivity(Kg/yr)": "3,89"
+    }
+  },
+  {
+    "Id": "13",
+    "Species": "Couma macrocarpa",
+    "Family": "Apocynaceae",
+    "Ecosystem Service": {
+      "Food": "X",
+      "Medicinal": "",
+      "Raw Material": ""
+    },
+    "Source": "http://mansfeld.ipk-gatersleben.de/",
+    "Obs": "",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "1",
+      "BA_total(cm2)": "66,48",
+      "AG_total(kg)": "34,00146917"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "465"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "75",
+      "Biomass(Kg)": "41888,37993",
+      "Productivity(Kg/yr)": "497,37"
+    }
+  },
+  {
+    "Id": "14",
+    "Species": "Cupania scrobiculata",
+    "Family": "Sapindaceae",
+    "Ecosystem Service": {
+      "Food": "X",
+      "Medicinal": "",
+      "Raw Material": "X"
+    },
+    "Source": "Santos et al. 2019",
+    "Obs": "",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "1",
+      "BA_total(cm2)": "3,46",
+      "AG_total(kg)": "1,070192922"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "171"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "127",
+      "Biomass(Kg)": "19606,2386",
+      "Productivity(Kg/yr)": "198,98"
+    }
+  },
+  {
+    "Id": "15",
+    "Species": "Dipteryx odorata",
+    "Family": "Fabaceae",
+    "Ecosystem Service": {
+      "Food": "",
+      "Medicinal": "",
+      "Raw Material": "X"
+    },
+    "Source": "Levis et al. 2017",
+    "Obs": "flavouring for tobacco, liqueurs and other foodstuffs.",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "1",
+      "BA_total(cm2)": "67,93",
+      "AG_total(kg)": "81,3771869"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "479"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "81",
+      "Biomass(Kg)": "325576,5467",
+      "Productivity(Kg/yr)": "2157,17"
+    }
+  },
+  {
+    "Id": "16",
+    "Species": "Erythroxylum citrifolium",
+    "Family": "Erythroxylaceae",
+    "Ecosystem Service": {
+      "Food": "",
+      "Medicinal": "X",
+      "Raw Material": "X"
+    },
+    "Source": "Santos et al. 2019",
+    "Obs": "",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "1",
+      "BA_total(cm2)": "7,07",
+      "AG_total(kg)": "2,337700742"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "1214"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "21",
+      "Biomass(Kg)": "3111,464243",
+      "Productivity(Kg/yr)": "100,58"
+    }
+  },
+  {
+    "Id": "17",
+    "Species": "Eschweilera coriacea",
+    "Family": "Lecythidaceae",
+    "Ecosystem Service": {
+      "Food": "X",
+      "Medicinal": "",
+      "Raw Material": ""
+    },
+    "Source": "http://mansfeld.ipk-gatersleben.de/",
+    "Obs": "matamatá branco = edible seeds",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "9",
+      "BA_total(cm2)": "3104,96",
+      "AG_total(kg)": "4316,275501"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "3"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "3168",
+      "Biomass(Kg)": "2142273,899",
+      "Productivity(Kg/yr)": "23493,01"
+    }
+  },
+  {
+    "Id": "18",
+    "Species": "Eschweilera grandiflora",
+    "Family": "Lecythidaceae",
+    "Ecosystem Service": {
+      "Food": "X",
+      "Medicinal": "",
+      "Raw Material": ""
+    },
+    "Source": "http://mansfeld.ipk-gatersleben.de/",
+    "Obs": "In tropical America cultivated for ist edible seeds. From the seeds an oil is extracted for soap and as lubricant.",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "23",
+      "BA_total(cm2)": "1157,11",
+      "AG_total(kg)": "1170,932322"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "66"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "413",
+      "Biomass(Kg)": "215714,6878",
+      "Productivity(Kg/yr)": "2127,79"
+    }
+  },
+  {
+    "Id": "19",
+    "Species": "Eschweilera micrantha",
+    "Family": "Lecythidaceae",
+    "Ecosystem Service": {
+      "Food": "",
+      "Medicinal": "X",
+      "Raw Material": "X"
+    },
+    "Source": "Santos et al. 2019",
+    "Obs": "",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "4",
+      "BA_total(cm2)": "1018,90",
+      "AG_total(kg)": "1273,971956"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "521"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "215",
+      "Biomass(Kg)": "173222,3468",
+      "Productivity(Kg/yr)": "1585,76"
+    }
+  },
+  {
+    "Id": "20",
+    "Species": "Eugenia cupulata",
+    "Family": "Myrtaceae",
+    "Ecosystem Service": {
+      "Food": "",
+      "Medicinal": "X",
+      "Raw Material": ""
+    },
+    "Source": "Santos et al. 2019",
+    "Obs": "",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "1",
+      "BA_total(cm2)": "7,55",
+      "AG_total(kg)": "2,634196785"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "939"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "18",
+      "Biomass(Kg)": "1989,088894",
+      "Productivity(Kg/yr)": "4,85"
+    }
+  },
+  {
+    "Id": "21",
+    "Species": "Eugenia florida",
+    "Family": "Myrtaceae",
+    "Ecosystem Service": {
+      "Food": "",
+      "Medicinal": "X",
+      "Raw Material": ""
+    },
+    "Source": "Santos et al. 2019",
+    "Obs": "",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "1",
+      "BA_total(cm2)": "4,52",
+      "AG_total(kg)": "1,488830998"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "606"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "61",
+      "Biomass(Kg)": "7689,916654",
+      "Productivity(Kg/yr)": "27,18"
+    }
+  },
+  {
+    "Id": "22",
+    "Species": "Cedrelinga cateniformis",
+    "Family": "Fabaceae",
+    "Ecosystem Service": {
+      "Food": "",
+      "Medicinal": "X",
+      "Raw Material": ""
+    },
+    "Source": "Manual dos remédios tradicionais Yanomamis",
+    "Obs": "utiliza casca da árvore",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "",
+      "BA_total(cm2)": "",
+      "AG_total(kg)": ""
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": ""
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "",
+      "Biomass(Kg)": "",
+      "Productivity(Kg/yr)": ""
+    }
+  },
+  {
+    "Id": "23",
+    "Species": "Guarea kunthiana",
+    "Family": "Meliaceae",
+    "Ecosystem Service": {
+      "Food": "",
+      "Medicinal": "",
+      "Raw Material": "X"
+    },
+    "Source": "Santos et al. 2019",
+    "Obs": "",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "2",
+      "BA_total(cm2)": "18,11",
+      "AG_total(kg)": "4,679211002"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "44"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "376",
+      "Biomass(Kg)": "142006,5597",
+      "Productivity(Kg/yr)": "2033,02"
+    }
+  },
+  {
+    "Id": "24",
+    "Species": "Guatteria megalophylla",
+    "Family": "Annonaceae",
+    "Ecosystem Service": {
+      "Food": "",
+      "Medicinal": "",
+      "Raw Material": "X"
+    },
+    "Source": "Prance 1972",
+    "Obs": "arrow poison",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "1",
+      "BA_total(cm2)": "20,03",
+      "AG_total(kg)": "8,873986199"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "1055"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "32",
+      "Biomass(Kg)": "2451,421767",
+      "Productivity(Kg/yr)": "18,37"
+    }
+  },
+  {
+    "Id": "25",
+    "Species": "Guatteria punctata",
+    "Family": "Annonaceae",
+    "Ecosystem Service": {
+      "Food": "X",
+      "Medicinal": "X",
+      "Raw Material": "X"
+    },
+    "Source": "Santos et al. 2019",
+    "Obs": "",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "4",
+      "BA_total(cm2)": "35,22",
+      "AG_total(kg)": "12,28521151"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "1437"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "16",
+      "Biomass(Kg)": "3080,529098",
+      "Productivity(Kg/yr)": "151,16"
+    }
+  },
+  {
+    "Id": "26",
+    "Species": "Hirtella racemosa",
+    "Family": "Chrysobalanaceae",
+    "Ecosystem Service": {
+      "Food": "",
+      "Medicinal": "X",
+      "Raw Material": "X"
+    },
+    "Source": "Santos et al. 2019",
+    "Obs": "",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "1",
+      "BA_total(cm2)": "7,55",
+      "AG_total(kg)": "2,95281067"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "116"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "65",
+      "Biomass(Kg)": "28021,01872",
+      "Productivity(Kg/yr)": "135,84"
+    }
+  },
+  {
+    "Id": "27",
+    "Species": "Inga brachyrhachis",
+    "Family": "Fabaceae",
+    "Ecosystem Service": {
+      "Food": "X",
+      "Medicinal": "X",
+      "Raw Material": "X"
+    },
+    "Source": "Santos et al. 2019",
+    "Obs": "",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "7",
+      "BA_total(cm2)": "131,32",
+      "AG_total(kg)": "53,47443737"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "1490"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "19",
+      "Biomass(Kg)": "4466,718861",
+      "Productivity(Kg/yr)": "111,94"
+    }
+  },
+  {
+    "Id": "28",
+    "Species": "Inga laurina",
+    "Family": "Fabaceae",
+    "Ecosystem Service": {
+      "Food": "X",
+      "Medicinal": "",
+      "Raw Material": ""
+    },
+    "Source": "Levis et al. 2017",
+    "Obs": "",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "5",
+      "BA_total(cm2)": "333,03",
+      "AG_total(kg)": "295,5217172"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "531"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "53",
+      "Biomass(Kg)": "28948,65498",
+      "Productivity(Kg/yr)": "595,89"
+    }
+  },
+  {
+    "Id": "29",
+    "Species": "Inga stipularis",
+    "Family": "Fabaceae",
+    "Ecosystem Service": {
+      "Food": "X",
+      "Medicinal": "",
+      "Raw Material": ""
+    },
+    "Source": "http://mansfeld.ipk-gatersleben.de/",
+    "Obs": "Cultivated for the edible sarcotesta.",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "3",
+      "BA_total(cm2)": "14,27",
+      "AG_total(kg)": "3,627676898"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "1273"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "48",
+      "Biomass(Kg)": "7468,367719",
+      "Productivity(Kg/yr)": "243,08"
+    }
+  },
+  {
+    "Id": "30",
+    "Species": "Inga thibaudiana",
+    "Family": "Fabaceae",
+    "Ecosystem Service": {
+      "Food": "X",
+      "Medicinal": "X",
+      "Raw Material": "X"
+    },
+    "Source": "Santos et al. 2019",
+    "Obs": "",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "1",
+      "BA_total(cm2)": "13,85",
+      "AG_total(kg)": "3,952935741"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "125"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "183",
+      "Biomass(Kg)": "35213,40399",
+      "Productivity(Kg/yr)": "939,86"
+    }
+  },
+  {
+    "Id": "31",
+    "Species": "Lacistema aggregatum",
+    "Family": "Lacistemaceae",
+    "Ecosystem Service": {
+      "Food": "X",
+      "Medicinal": "X",
+      "Raw Material": "X"
+    },
+    "Source": "Santos et al. 2019 http://mansfeld.ipk-gatersleben.de/",
+    "Obs": "bàri djwa (Kayapó Indians) + me krê ka kô (Kayapó Indians) + game attractant",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "2",
+      "BA_total(cm2)": "16,10",
+      "AG_total(kg)": "4,556450698"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "319"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "161",
+      "Biomass(Kg)": "19557,16475",
+      "Productivity(Kg/yr)": "291,17"
+    }
+  },
+  {
+    "Id": "32",
+    "Species": "Licania apetala",
+    "Family": "Chrysobalanaceae",
+    "Ecosystem Service": {
+      "Food": "",
+      "Medicinal": "",
+      "Raw Material": "X"
+    },
+    "Source": "Santos et al. 2019",
+    "Obs": "",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "2",
+      "BA_total(cm2)": "9,46",
+      "AG_total(kg)": "2,618699059"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "27"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "322",
+      "Biomass(Kg)": "119137,0326",
+      "Productivity(Kg/yr)": "719,10"
+    }
+  },
+  {
+    "Id": "33",
+    "Species": "Licania heteromorpha",
+    "Family": "Chrysobalanaceae",
+    "Ecosystem Service": {
+      "Food": "X",
+      "Medicinal": "X",
+      "Raw Material": "X"
+    },
+    "Source": "Santos et al. 2019",
+    "Obs": "",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "13",
+      "BA_total(cm2)": "1088,21",
+      "AG_total(kg)": "1532,454068"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "19"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "721",
+      "Biomass(Kg)": "347000,8338",
+      "Productivity(Kg/yr)": "4224,52"
+    }
+  },
+  {
+    "Id": "34",
+    "Species": "Licania octandra",
+    "Family": "Chrysobalanaceae",
+    "Ecosystem Service": {
+      "Food": "",
+      "Medicinal": "",
+      "Raw Material": "X"
+    },
+    "Source": "Santos et al. 2019",
+    "Obs": "",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "8",
+      "BA_total(cm2)": "276,98",
+      "AG_total(kg)": "190,3414421"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "144"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "219",
+      "Biomass(Kg)": "147320,1609",
+      "Productivity(Kg/yr)": "1207,71"
+    }
+  },
+  {
+    "Id": "35",
+    "Species": "Mabea speciosa",
+    "Family": "Euphorbiaceae",
+    "Ecosystem Service": {
+      "Food": "",
+      "Medicinal": "X",
+      "Raw Material": "X"
+    },
+    "Source": "Santos et al. 2019",
+    "Obs": "",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "5",
+      "BA_total(cm2)": "263,86",
+      "AG_total(kg)": "167,5866703"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "83"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "301",
+      "Biomass(Kg)": "44601,86592",
+      "Productivity(Kg/yr)": "461,48"
+    }
+  },
+  {
+    "Id": "36",
+    "Species": "Matayba guianensis",
+    "Family": "Sapindaceae",
+    "Ecosystem Service": {
+      "Food": "",
+      "Medicinal": "",
+      "Raw Material": "X"
+    },
+    "Source": "http://mansfeld.ipk-gatersleben.de/",
+    "Obs": "pi tai te (Kayapó Indians, Brazil) - planted by the Kayapó tribe as game attractant",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "2",
+      "BA_total(cm2)": "14,71",
+      "AG_total(kg)": "7,488867256"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "488"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "120",
+      "Biomass(Kg)": "30835,49364",
+      "Productivity(Kg/yr)": "179,40"
+    }
+  },
+  {
+    "Id": "37",
+    "Species": "Matayba inelegans",
+    "Family": "Sapindaceae",
+    "Ecosystem Service": {
+      "Food": "",
+      "Medicinal": "X",
+      "Raw Material": ""
+    },
+    "Source": "Santos et al. 2019",
+    "Obs": "",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "1",
+      "BA_total(cm2)": "283,53",
+      "AG_total(kg)": "296,0849968"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "437"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "64",
+      "Biomass(Kg)": "34030,34824",
+      "Productivity(Kg/yr)": "55,15"
+    }
+  },
+  {
+    "Id": "38",
+    "Species": "Mezilaurus itauba",
+    "Family": "Lauraceae",
+    "Ecosystem Service": {
+      "Food": "X",
+      "Medicinal": "",
+      "Raw Material": "X"
+    },
+    "Source": "Santos et al. 2019",
+    "Obs": "",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "2",
+      "BA_total(cm2)": "40,25",
+      "AG_total(kg)": "18,94952706"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "118"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "71",
+      "Biomass(Kg)": "40229,87458",
+      "Productivity(Kg/yr)": "247,04"
+    }
+  },
+  {
+    "Id": "39",
+    "Species": "Minquartia guianensis",
+    "Family": "Olacaceae",
+    "Ecosystem Service": {
+      "Food": "",
+      "Medicinal": "",
+      "Raw Material": "X"
+    },
+    "Source": "Duke & Vasquez Martinez 1994",
+    "Obs": "",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "5",
+      "BA_total(cm2)": "2559,45",
+      "AG_total(kg)": "3591,288432"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "54"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "665",
+      "Biomass(Kg)": "622806,7805",
+      "Productivity(Kg/yr)": "5680,08"
+    }
+  },
+  {
+    "Id": "40",
+    "Species": "Pseudolmedia laevis",
+    "Family": "Moraceae",
+    "Ecosystem Service": {
+      "Food": "",
+      "Medicinal": "X",
+      "Raw Material": ""
+    },
+    "Source": "Manual dos remédios tradicionais Yanomamis",
+    "Obs": "utiliza seiva",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "",
+      "BA_total(cm2)": "",
+      "AG_total(kg)": ""
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": ""
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "",
+      "Biomass(Kg)": "",
+      "Productivity(Kg/yr)": ""
+    }
+  },
+  {
+    "Id": "41",
+    "Species": "Myrciaria floribunda",
+    "Family": "Myrtaceae",
+    "Ecosystem Service": {
+      "Food": "X",
+      "Medicinal": "X",
+      "Raw Material": ""
+    },
+    "Source": "Santos et al. 2019",
+    "Obs": "",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "1",
+      "BA_total(cm2)": "271,72",
+      "AG_total(kg)": "276,2641132"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "289"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "71",
+      "Biomass(Kg)": "15636,71009",
+      "Productivity(Kg/yr)": "134,96"
+    }
+  },
+  {
+    "Id": "42",
+    "Species": "Neea oppositifolia",
+    "Family": "Nyctaginaceae",
+    "Ecosystem Service": {
+      "Food": "",
+      "Medicinal": "",
+      "Raw Material": "X"
+    },
+    "Source": "Santos et al. 2019",
+    "Obs": "",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "1",
+      "BA_total(cm2)": "683,49",
+      "AG_total(kg)": "970,2557289"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "822"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "12",
+      "Biomass(Kg)": "4264,566978",
+      "Productivity(Kg/yr)": "120,20"
+    }
+  },
+  {
+    "Id": "43",
+    "Species": "Ocotea canaliculata",
+    "Family": "Lauraceae",
+    "Ecosystem Service": {
+      "Food": "",
+      "Medicinal": "",
+      "Raw Material": "X"
+    },
+    "Source": "Santos et al. 2019",
+    "Obs": "",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "NA",
+      "BA_total(cm2)": "NA",
+      "AG_total(kg)": "NA"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "515"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "33",
+      "Biomass(Kg)": "17352,74107",
+      "Productivity(Kg/yr)": "380,67"
+    }
+  },
+  {
+    "Id": "44",
+    "Species": "Peritassa laevigata",
+    "Family": "Celastraceae",
+    "Ecosystem Service": {
+      "Food": "X",
+      "Medicinal": "",
+      "Raw Material": ""
+    },
+    "Source": "http://mansfeld.ipk-gatersleben.de/",
+    "Obs": "edible fruits which are also used for the preparation of marmalade",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "1",
+      "BA_total(cm2)": "5,31",
+      "AG_total(kg)": "1,298364081"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "NA"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "NA",
+      "Biomass(Kg)": "NA",
+      "Productivity(Kg/yr)": "NA"
+    }
+  },
+  {
+    "Id": "45",
+    "Species": "Pourouma mollis",
+    "Family": "Urticaceae",
+    "Ecosystem Service": {
+      "Food": "X",
+      "Medicinal": "",
+      "Raw Material": ""
+    },
+    "Source": "http://mansfeld.ipk-gatersleben.de/",
+    "Obs": "tararanga vermelha - edible fruits",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "2",
+      "BA_total(cm2)": "207,67",
+      "AG_total(kg)": "134,3681433"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "281"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "120",
+      "Biomass(Kg)": "40083,821",
+      "Productivity(Kg/yr)": "978,24"
+    }
+  },
+  {
+    "Id": "46",
+    "Species": "Pouteria caimito",
+    "Family": "Sapotaceae",
+    "Ecosystem Service": {
+      "Food": "X",
+      "Medicinal": "",
+      "Raw Material": ""
+    },
+    "Source": "Levis et al. 2017",
+    "Obs": "",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "5",
+      "BA_total(cm2)": "414,10",
+      "AG_total(kg)": "398,8433181"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "124"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "285",
+      "Biomass(Kg)": "153141,5447",
+      "Productivity(Kg/yr)": "1365,43"
+    }
+  },
+  {
+    "Id": "47",
+    "Species": "Pouteria cladantha",
+    "Family": "Sapotaceae",
+    "Ecosystem Service": {
+      "Food": "X",
+      "Medicinal": "",
+      "Raw Material": ""
+    },
+    "Source": "Santos et al. 2019",
+    "Obs": "",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "5",
+      "BA_total(cm2)": "157,03",
+      "AG_total(kg)": "133,1401277"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "245"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "177",
+      "Biomass(Kg)": "84990,65199",
+      "Productivity(Kg/yr)": "897,75"
+    }
+  },
+  {
+    "Id": "48",
+    "Species": "Pouteria guianensis",
+    "Family": "Sapotaceae",
+    "Ecosystem Service": {
+      "Food": "X",
+      "Medicinal": "",
+      "Raw Material": "X"
+    },
+    "Source": "Santos et al. 2019 http://mansfeld.ipk-gatersleben.de/",
+    "Obs": "cultivated as a fruit tree in the native area, fruits with agreeable flavour. Formerly the latex of the trunk has been tapped. The wood provides an useful timber",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "5",
+      "BA_total(cm2)": "614,21",
+      "AG_total(kg)": "793,7631892"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "68"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "513",
+      "Biomass(Kg)": "624610,0796",
+      "Productivity(Kg/yr)": "3478,36"
+    }
+  },
+  {
+    "Id": "49",
+    "Species": "Pouteria venosa",
+    "Family": "Sapotaceae",
+    "Ecosystem Service": {
+      "Food": "X",
+      "Medicinal": "",
+      "Raw Material": "X"
+    },
+    "Source": "http://mansfeld.ipk-gatersleben.de/",
+    "Obs": "cutitiribá grande. Cultivated in the Amazonas area of BRAZIL as a fruit tree. The timber is used locally.",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "11",
+      "BA_total(cm2)": "6006,51",
+      "AG_total(kg)": "10723,56708"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "473"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "71",
+      "Biomass(Kg)": "40974,89618",
+      "Productivity(Kg/yr)": "475,34"
+    }
+  },
+  {
+    "Id": "50",
+    "Species": "Protium paniculatum",
+    "Family": "Burseraceae",
+    "Ecosystem Service": {
+      "Food": "",
+      "Medicinal": "X",
+      "Raw Material": "X"
+    },
+    "Source": "Santos et al. 2019",
+    "Obs": "",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "4",
+      "BA_total(cm2)": "315,65",
+      "AG_total(kg)": "195,5140188"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "300"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "192",
+      "Biomass(Kg)": "30591,7533",
+      "Productivity(Kg/yr)": "647,89"
+    }
+  },
+  {
+    "Id": "51",
+    "Species": "Protium trifoliolatum",
+    "Family": "Burseraceae",
+    "Ecosystem Service": {
+      "Food": "X",
+      "Medicinal": "",
+      "Raw Material": "X"
+    },
+    "Source": "Santos et al. 2019",
+    "Obs": "",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "9",
+      "BA_total(cm2)": "346,96",
+      "AG_total(kg)": "232,3504979"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "155"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "226",
+      "Biomass(Kg)": "25276,28118",
+      "Productivity(Kg/yr)": "195,33"
+    }
+  },
+  {
+    "Id": "52",
+    "Species": "Pterocarpus rohrii",
+    "Family": "Fabaceae",
+    "Ecosystem Service": {
+      "Food": "",
+      "Medicinal": "X",
+      "Raw Material": ""
+    },
+    "Source": "Santos et al. 2019",
+    "Obs": "",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "6",
+      "BA_total(cm2)": "294,79",
+      "AG_total(kg)": "123,1202072"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "79"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "131",
+      "Biomass(Kg)": "54889,14205",
+      "Productivity(Kg/yr)": "891,01"
+    }
+  },
+  {
+    "Id": "53",
+    "Species": "Sacoglottis guianensis",
+    "Family": "Humiriaceae",
+    "Ecosystem Service": {
+      "Food": "X",
+      "Medicinal": "X",
+      "Raw Material": "X"
+    },
+    "Source": "Santos et al. 2019 http://mansfeld.ipk-gatersleben.de",
+    "Obs": "",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "3",
+      "BA_total(cm2)": "177,01",
+      "AG_total(kg)": "173,9506207"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "130"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "174",
+      "Biomass(Kg)": "118486,0555",
+      "Productivity(Kg/yr)": "1463,09"
+    }
+  },
+  {
+    "Id": "54",
+    "Species": "Simarouba amara",
+    "Family": "Simaroubaceae",
+    "Ecosystem Service": {
+      "Food": "",
+      "Medicinal": "X",
+      "Raw Material": "X"
+    },
+    "Source": "Santos et al. 2019",
+    "Obs": "",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "1",
+      "BA_total(cm2)": "25,07",
+      "AG_total(kg)": "6,55269377"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "108"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "194",
+      "Biomass(Kg)": "116581,8183",
+      "Productivity(Kg/yr)": "2019,47"
+    }
+  },
+  {
+    "Id": "55",
+    "Species": "Siparuna decipiens",
+    "Family": "Siparunaceae",
+    "Ecosystem Service": {
+      "Food": "",
+      "Medicinal": "X",
+      "Raw Material": ""
+    },
+    "Source": "Manual dos remédios tradicionais Yanomamis",
+    "Obs": "utiliza casca da árvore",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "",
+      "BA_total(cm2)": "",
+      "AG_total(kg)": ""
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": ""
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "",
+      "Biomass(Kg)": "",
+      "Productivity(Kg/yr)": ""
+    }
+  },
+  {
+    "Id": "56",
+    "Species": "Siparuna guianensis",
+    "Family": "Siparunaceae",
+    "Ecosystem Service": {
+      "Food": "",
+      "Medicinal": "X",
+      "Raw Material": ""
+    },
+    "Source": "Manual dos remédios tradicionais Yanomamis",
+    "Obs": "utiliza folha",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "",
+      "BA_total(cm2)": "",
+      "AG_total(kg)": ""
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": ""
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "",
+      "Biomass(Kg)": "",
+      "Productivity(Kg/yr)": ""
+    }
+  },
+  {
+    "Id": "57",
+    "Species": "Sterculia pruriens",
+    "Family": "Malvaceae",
+    "Ecosystem Service": {
+      "Food": "",
+      "Medicinal": "",
+      "Raw Material": "X"
+    },
+    "Source": "Santos et al. 2019",
+    "Obs": "",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "1",
+      "BA_total(cm2)": "224,32",
+      "AG_total(kg)": "166,5743658"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "121"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "331",
+      "Biomass(Kg)": "205222,4361",
+      "Productivity(Kg/yr)": "2567,52"
+    }
+  },
+  {
+    "Id": "58",
+    "Species": "Stryphnodendron pulcherrimum",
+    "Family": "Fabaceae",
+    "Ecosystem Service": {
+      "Food": "",
+      "Medicinal": "X",
+      "Raw Material": "X"
+    },
+    "Source": "Santos et al. 2019",
+    "Obs": "",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "1",
+      "BA_total(cm2)": "10,18",
+      "AG_total(kg)": "2,398002265"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "1048"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "23",
+      "Biomass(Kg)": "11422,2421",
+      "Productivity(Kg/yr)": "387,74"
+    }
+  },
+  {
+    "Id": "59",
+    "Species": "Tachigali paniculata",
+    "Family": "Fabaceae",
+    "Ecosystem Service": {
+      "Food": "",
+      "Medicinal": "X",
+      "Raw Material": ""
+    },
+    "Source": "Santos et al. 2019",
+    "Obs": "",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "3",
+      "BA_total(cm2)": "203,11",
+      "AG_total(kg)": "141,0671711"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "88"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "166",
+      "Biomass(Kg)": "65472,92049",
+      "Productivity(Kg/yr)": "3831,86"
+    }
+  },
+  {
+    "Id": "60",
+    "Species": "Pourouma bicolor",
+    "Family": "Urticaceae",
+    "Ecosystem Service": {
+      "Food": "",
+      "Medicinal": "X",
+      "Raw Material": ""
+    },
+    "Source": "Manual dos remédios tradicionais Yanomamis",
+    "Obs": "utiliza frutos e folhas",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "",
+      "BA_total(cm2)": "",
+      "AG_total(kg)": ""
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": ""
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "",
+      "Biomass(Kg)": "",
+      "Productivity(Kg/yr)": ""
+    }
+  },
+  {
+    "Id": "61",
+    "Species": "Vatairea macrocarpa",
+    "Family": "Fabaceae",
+    "Ecosystem Service": {
+      "Food": "",
+      "Medicinal": "X",
+      "Raw Material": ""
+    },
+    "Source": "http://mansfeld.ipk-gatersleben.de/",
+    "Obs": "Cultivated by the Kayapó Indians in NE Brazil as medicinal plant",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "1",
+      "BA_total(cm2)": "3,80",
+      "AG_total(kg)": "0,844849393"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "2926"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "2",
+      "Biomass(Kg)": "761,8548111",
+      "Productivity(Kg/yr)": "63,23"
+    }
+  },
+  {
+    "Id": "62",
+    "Species": "Amphirrhox longifolia",
+    "Family": "Violaceae",
+    "Ecosystem Service": {
+      "Food": "",
+      "Medicinal": "X",
+      "Raw Material": ""
+    },
+    "Source": "Manual dos remédios tradicionais Yanomamis",
+    "Obs": "utiliza casca da árvore",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "",
+      "BA_total(cm2)": "",
+      "AG_total(kg)": ""
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": ""
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "",
+      "Biomass(Kg)": "",
+      "Productivity(Kg/yr)": ""
+    }
+  },
+  {
+    "Id": "63",
+    "Species": "Virola calophylla",
+    "Family": "Myristicaceae",
+    "Ecosystem Service": {
+      "Food": "",
+      "Medicinal": "X",
+      "Raw Material": ""
+    },
+    "Source": "Santos et al. 2019",
+    "Obs": "",
+    "n AmazonFACE 8 plots": {
+      "Stem_FACE": "9",
+      "BA_total(cm2)": "220,41",
+      "AG_total(kg)": "92,27743909"
+    },
+    "HD in the Amazonian Tree Flora hank": {
+      "HD(NumberStems)": "34"
+    },
+    "HD in Amazonian forest carbon cycling": {
+      "StemNumber": "679",
+      "Biomass(Kg)": "133186,2405",
+      "Productivity(Kg/yr)": "1460,71"
+    }
+  }
+]

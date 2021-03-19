@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0"
+    />
+    <link rel="stylesheet" href="../css/main.css" />
+    <title>Forest Futures</title>
+  </head>
+  <body>
+    <section class="start-part" id="start-section">
+      <video playsinline muted loop poster="" id="bgvid">
+        <source src="../resources/videofelipe.mp4" type="video/mp4" />
+      </video>
+      <audio loop src="../resources/espirito_floresta.mp3">
+        O seu navegador não suporta o elemento <code>audio</code>.
+      </audio>
+      <div class="start-elements">
+        <div class="title-bg title">
+          <h1 class="title">Os Futuros (Digitais) da Floresta</h1>
+        </div>
+        <div id="toggle-video" class="title-bg button-bg toggle-video-btn">
+          Play
+        </div>
+        <div class="title-bg button-bg">
+          <a id="start" href="#hipervolume">Próximo <span>-></span></a>
+        </div>
+      </div>
+      <!-- <div id="toggle-video" class="title-bg button-bg toggle-video-btn">
+        Play
+      </div> -->
+    </section>
+
+    <section class="space-container" id="hipervolume">
+      <div id="space"></div>
+      <div id="info" class="info info-bg">
+        <h3>Dentro do Hipervolume</h3>
+        Controles:<br />Movimento - clique e arraste, Scroll para zoom
+      </div>
+    
+      <div class="submit-btn-container">
+        <a href="#start-section">Voltar</a>
+        <button id="open-submit-modal" href="#gallery">Submeter</button>
+      </div>
+    </section>
+
+    <section id="gallery" class="gallery">
+      <h1>Galeria</h1>
+      <ul class="grid-container">
+        <li class="grid-element">
+          <figure>
+            <img src="../resources/AGLB_Legend.jpg" alt="" />
+            <figcaption>
+              <h3>Figure 1</h3>
+            </figcaption>
+          </figure>
+          <p>
+            Aboveground live biomass classification map of the Amazon basin at 1
+            km spatial resolution derived from combined DTM and regression
+            analysis with 11 biomass classes and overall accuracy of 88%.
+          </p>
+        </li>
+        <li class="grid-element">
+          <figure>
+            <img src="../resources/amazon-mask.png" alt="" />
+            <figcaption>
+              <h3>Figure 2</h3>
+            </figcaption>
+          </figure>
+          <p>
+            Pan Amazon Pixel Mask.
+          </p>
+        </li>
+        <li class="grid-element">
+          <figure>
+            <img src="../resources/MeanCMIP6_southamericaamazon_timeint.png" alt="" />
+            <figcaption>
+              <h3>Figure 3</h3>
+            </figcaption>
+          </figure>
+          <p>
+            Média dos resultados do CMIP6 para a biomassa (kg/m2) a Amazônia 1995-2005.
+          </p>
+        </li>
+      </ul>
+    </section>
+
+    <div class="modal-bg">
+      <div id="modal" class="modal">
+        <h1>Galeria</h1>
+        <ul>
+          <li>Root Biomass: <span id="x"></span>%</li>
+          <li>Wood Biomass: <span id="y"></span>%</li>
+          <li>Leaf Biomass: <span id="z"></span>%</li>
+          <li>Species name: <span id="species"></span></li>
+          <li>Occurennces at FACE Plots: <span id="n"></span></li>
+          <li>Local usage: <span id="usage"></span></li>
+          <li>Obs: <span id="obs"></span></li>
+          <li>Source: <span id="source"></span></li>
+          <span class="close"> X</span>
+          <li>GBIF Link: <a id="gbif-link" href="" style="color: blue;" target="_blank" rel="noreferrer noopener"></a></li>
+          <div>Images</div>
+          <li class="gbif-container">
+            <figure>
+              <img class="gbif-img" src="" alt=""/>
+            </figure>
+            <figure>
+              <img class="gbif-img" src="" alt=""/>
+            </figure>
+            <figure>
+              <img class="gbif-img" src="" alt=""/>
+            </figure>
+            <figure>
+              <img class="gbif-img" src="" alt=""/>
+            </figure>
+            <figure>
+              <img class="gbif-img" src="" alt=""/>
+            </figure>
+            <figure>
+              <img class="gbif-img" src="" alt=""/>
+            </figure>
+          </li>
+          <div class="btns-container">
+            <button class="kill" id="kill-btn">Remover dos Dados</button>
+          </div>
+        </ul>
+      </div>
+    </div>
+
+    <div class="modal-bg2">
+      <div id="modal-submit" class="modal modal-submit">
+        <h1>Concluir alterações?</h1>
+          
+          <span class="close-submit"> X</span>
+          <div class="btns-container">
+            <button class="submit" id="submit-btn">Enviar</button>
+          </div>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Grid Element Template -->
+    <template id="grid-element-template">
+      <li class="grid-element">
+        <figure>
+          <img src="" alt="" />
+          <figcaption>
+            <h3></h3>
+          </figcaption>
+        </figure>
+        <p id="a"></p>
+      </li>
+    </template>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js"></script>
+    <script type="text/javascript">
+        (function() {
+          emailjs.init("user_Vl2zrsz4TLXCvwi8yGChH");
+        })();
+    </script>
+    <script src="../src/app.js"></script>
+    
+  </body>
+</html>
