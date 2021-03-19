@@ -11,8 +11,9 @@ import submitModal from "./submitModal";
 
 import plsAttr from "../data/pls_attr2.json";
 import usageData from "../data/speciesData.json";
-console.log(usageData);
+
 import hdrImg from "../resources/misty_pines_2k.hdr";
+//import f from "../static/helvetiker_regular.typeface.json";
 
 function spaceSection(DATA_TABLE) {
   const elModal = elementModal();
@@ -132,8 +133,10 @@ function spaceSection(DATA_TABLE) {
     //     createControls(value ? orthographicCamera : perspectiveCamera);
     //   });
 
-    window.addEventListener("mousemove", onDocumentMouseMove);
+    space.addEventListener("mousemove", onDocumentMouseMove);
     space.addEventListener("click", onMouseClick);
+    window.addEventListener("touchmove", onDocumentMouseMove);
+    space.addEventListener("touchstart", onMouseClick);
     window.addEventListener("resize", onWindowResize);
 
     createControls(perspectiveCamera);
@@ -237,6 +240,53 @@ function spaceSection(DATA_TABLE) {
     const zAxisLineGeometry = new THREE.BufferGeometry().setFromPoints(zAxis);
     const zAxisLine = new THREE.Line(zAxisLineGeometry, lineMaterial);
     scene.add(zAxisLine);
+
+    const loader = new THREE.FontLoader();
+
+    loader.load("../static/helvetiker_regular.typeface.json", function (font) {
+      const material = new THREE.MeshPhongMaterial({
+        color: 0x00ffff,
+        flatShading: true,
+      });
+      console.log("bb");
+      const geometryX = new THREE.TextGeometry("troot", {
+        font: font,
+        size: 10,
+        height: 5,
+        curveSegments: 12,
+      });
+      console.log(geometryX);
+      let x = new THREE.Mesh(geometryX, material);
+      x.position.x = 200;
+      x.position.z = 10;
+      x.rotation.y = 0.25 * 2 * Math.PI;
+
+      const geometryY = new THREE.TextGeometry("twood", {
+        font: font,
+        size: 10,
+        height: 5,
+        curveSegments: 12,
+      });
+      let y = new THREE.Mesh(geometryY, material);
+      y.position.y = 200;
+      y.position.x = -15;
+      y.rotation.x = -0.25 * 2 * Math.PI;
+
+      const geometryZ = new THREE.TextGeometry("tleaf", {
+        font: font,
+        size: 10,
+        height: 5,
+        curveSegments: 12,
+      });
+      let z = new THREE.Mesh(geometryZ, material);
+      z.position.z = 200;
+      z.position.x = -15;
+      z.rotation.y = 1 * 2 * Math.PI;
+      console.log(x);
+      scene.add(x);
+      scene.add(y);
+      scene.add(z);
+    });
   }
 
   function createControls(camera) {
@@ -275,7 +325,11 @@ function spaceSection(DATA_TABLE) {
 
   function onMouseClick(event) {
     if (!SELECTED) {
-      if (INTERSECTED && INTERSECTED.type !== "Line") {
+      if (
+        INTERSECTED &&
+        INTERSECTED.type !== "Line" &&
+        INTERSECTED.geometry.type !== "TextGeometry"
+      ) {
         INTERSECTED.scale.x++;
         INTERSECTED.scale.y++;
         INTERSECTED.scale.z++;
@@ -286,7 +340,6 @@ function spaceSection(DATA_TABLE) {
     }
   }
 
-  console.log(elModal);
   elModal.modal.addEventListener("closed", (e) => {
     SELECTED = null;
   });
@@ -294,8 +347,7 @@ function spaceSection(DATA_TABLE) {
   elModal.modal.addEventListener("deleteElement", (e) => {
     console.log(DATA_TABLE);
     DATA_TABLE.push({ uuid: e.detail.uuid, data: e.detail.userData });
-    console.log(DATA_TABLE);
-    console.log(e);
+
     const obj = scene.getObjectByProperty("uuid", e.detail.uuid);
     obj.geometry.dispose();
     obj.material.dispose();
@@ -326,8 +378,11 @@ function spaceSection(DATA_TABLE) {
     const intersects = raycaster.intersectObjects(scene.children);
 
     if (intersects.length > 0) {
-      if (intersects[0].object.type === "Line") {
-        //console.log(intersects[0].object);
+      if (
+        intersects[0].object.type === "Line" ||
+        intersects[0].object.geometry.type === "TextGeometry"
+      ) {
+        //console.log(INTERSECTED)
       } else {
         if (INTERSECTED != intersects[0].object) {
           if (INTERSECTED)

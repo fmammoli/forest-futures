@@ -20,6 +20,7 @@ function elementModal() {
     modalBg.classList.toggle("bg-active");
     modal.classList.toggle("modal-active");
   }
+  //modalBg.addEventListener("click", close);
 
   function close(e) {
     modalBg.classList.remove("bg-active");

@@ -4,7 +4,7 @@ function submitModal(DATA_TABLE) {
   const modalBg = document.querySelector(".modal-bg2");
 
   const modalSubmitBtn = document.querySelector("#submit-btn");
-
+  //modalBg.addEventListener("click", toggleModal);
   closeModalBtn.addEventListener("click", function (e) {
     toggleModal(e);
   });

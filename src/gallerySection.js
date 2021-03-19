@@ -1,7 +1,7 @@
 import galleryElement from "./galleryElement";
 import saatchi from "../resources/AGLB_Legend.jpg";
 import amazonMask from "../resources/amazon-mask.png";
-
+import zoomModal from "./zoomImgModal";
 function gallerySection() {
   let GALLERY_IMAGES = [
     {
@@ -39,6 +39,22 @@ function gallerySection() {
   // });
   // console.log("alo");
   // gallery.appendChild(fragment);
+
+  const imgModal = new zoomModal();
+
+  const galleryItems = document.querySelectorAll(
+    "#gallery > .grid-container > .grid-element"
+  );
+  console.log(galleryItems);
+  for (let index = 0; index < galleryItems.length; index++) {
+    console.log("a");
+
+    galleryItems[index].children[0].addEventListener("click", function (e) {
+      console.log("");
+      imgModal.open(galleryItems[index].children[0].children[0].src);
+    });
+  }
+
   return gallery;
 }
 
